@@ -59,8 +59,8 @@ Welcome to my GitHub! I enjoy building software, exploring machine learning, and
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uzma-azeez&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=uzma-azeezy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzma-azeez&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzma-azeezy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
