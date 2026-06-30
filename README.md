@@ -5,7 +5,6 @@
 <p align="center">
 Welcome to my GitHub! I enjoy building software, exploring machine learning, and learning new technologies.
 </p>
----
 
 ## 👩‍💻 About Me
 
@@ -14,3 +13,19 @@ Welcome to my GitHub! I enjoy building software, exploring machine learning, and
 - 🚀 Building projects to improve my development skills
 - 📍 Bengaluru, India
   
+
+## 💻 Languages & Tools
+
+<p>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker"/></a>
+
+</p>
