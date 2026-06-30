@@ -53,14 +53,14 @@ Welcome to my GitHub! I enjoy building software, exploring machine learning, and
 - Used dataset cleaning, feature processing, and model training.
 
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzma-azeez&show_icons=true&theme=default" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uzma-azeezy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzma-azeezy&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzma-azeez&layout=compact" />
+</p>
 
 </p>
