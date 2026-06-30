@@ -26,6 +26,30 @@ Welcome to my GitHub! I enjoy building software, exploring machine learning, and
 <a href="#"><img src="https://skillicons.dev/icons?i=git"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker"/></a>
 
 </p>
+
+
+---
+
+## 🚀 Projects
+
+### 🖼️ Image Forgery Detection
+- Developed a system to detect manipulated or tampered images.
+- Used image processing + machine learning techniques.
+- Focused on identifying inconsistencies in digital images.
+
+### 📚 AI Personal Study Tracker
+- Built an AI-based tool to help track and manage study habits.
+- Helps users monitor productivity and study patterns.
+- Uses data tracking and simple ML logic for insights.
+
+### 📈 Stock Market Prediction
+- Built an LSTM-based deep learning model for stock price forecasting.
+- Included preprocessing, training, and evaluation.
+
+### 🏥 Maternal Health Risk Prediction
+- Machine learning classification model for predicting health risks.
+- Used dataset cleaning, feature processing, and model training.
+
+
